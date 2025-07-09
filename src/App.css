@@ -1,0 +1,42 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.count {
+  color: rgb(228, 71, 71);
+}
+
+.traffic-light {
+  background-color: rgb(212, 185, 185);
+  padding: 2rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.lights {
+  background-color: gray;
+  margin-top: 0.5rem;
+  padding: 1rem;
+  border-radius: 0.2rem;
+}
+
+.color {
+  margin: 0.5rem 0;
+  border-radius: 50%;
+  height: 5rem;
+  width: 5rem;
+}
+
+.red {
+  background-color: red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
